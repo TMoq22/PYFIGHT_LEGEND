@@ -59,18 +59,18 @@ TD NSI - 2024 ~ 2025 - V5.9
 _______________________________________________________________________________
 ## crédits images et assets 
 
-[https://pixabay.com/fr/illustrations/d%C3%A9but-bouton-pixel-art-pixels-lofi-8870688/](bouton start)
-[https://fr.freepik.com/vecteurs-premium/bouton-parametres-pixel-art-icone-vecteur-engrenage-pour-jeu-8-bits-fond-blanc_32139308.htm](bouton paramètre) 
+[bouton start]( https://pixabay.com/fr/illustrations/d%C3%A9but-bouton-pixel-art-pixels-lofi-8870688/)  
+[bouton paramètre](https://fr.freepik.com/vecteurs-premium/bouton-parametres-pixel-art-icone-vecteur-engrenage-pour-jeu-8-bits-fond-blanc_32139308.htm)   
 pancarte.png auteur inconnue
 maps/boutons/xp/personnages crée par nous 
 
-les polices d'écritures proviennent du site [https://www.dafont.com/fr](dafont)
+les polices d'écritures proviennent du site [dafont](https://www.dafont.com/fr)
 
 Bake Soda par MJType police sous licence Gratuit pour un usage personnel
 PixArrows par Damien Gosset police sous licence Gratuit pour un usage personnel
 Gameplay par Geronimo Font Studios police sous licence Gratuit pour un usage personnel
 
-musique -> [https://www.fiftysounds.com](fiftysounds)
+musique -> [fiftysounds](https://www.fiftysounds.com)
 _______________________________________________________________________________
 
 
