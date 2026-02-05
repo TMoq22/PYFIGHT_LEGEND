@@ -7,6 +7,9 @@ Python game made with the pygame library
 > 
 > English version not available
 
+> [!NOTE]
+> If you are using Linux, launch the `PYFIGHT_LEGEND_linux.py` program.
+
 
 > [!WARNING]
 > This project was created solely for educational purposes and contains copyrighted material.
@@ -20,7 +23,9 @@ module : module.py et la librairie pygame, ainsi que des images et autres
 ressources (présents dans le dossier assets).
 Le dossier doit être à côté du programme Python.
 
-
+## Lancement :
+windows : ` py PYFICHT_LEGENDS.py`  
+linux : ` python3 PYFICHT_LEGENDS_linux.py`
 _______________________________________________________________________________
 
 Deux versions du code sont disponibles :
