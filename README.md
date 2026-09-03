@@ -58,7 +58,7 @@ Un easter egg sur le skin est à découvrir si vous terminez le jeu.
 
 ## Crédits
 
-[Moquet Titouan](https://github.com/TMoq22) ~ [Devallan Flavien](https://github.com/DecentDevelopment) 
+[Moquet Titouan](https://github.com/TMoq22) ~ [Devallan Flavien](https://github.com/FleuveD) 
 
 TD NSI - 2024 ~ 2025 - V5.9
 _______________________________________________________________________________
